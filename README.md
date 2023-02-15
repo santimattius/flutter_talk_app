@@ -1,4 +1,4 @@
-# [Working progress]flutter_talk_app
+# [Working progress] flutter_talk_app
 
 A new Flutter project.
 
