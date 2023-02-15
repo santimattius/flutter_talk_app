@@ -1,5 +1,8 @@
 class SampleItem {
-  const SampleItem(this.id);
+  const SampleItem(
+      {required this.id, required this.title, required this.route});
 
   final int id;
+  final String title;
+  final String route;
 }

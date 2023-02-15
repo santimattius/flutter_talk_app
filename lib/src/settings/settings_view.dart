@@ -15,8 +15,9 @@ class SettingsView extends StatelessWidget {
       appBar: AppBar(
         title: const Text('Settings'),
       ),
-      body: Padding(
+      body: Container(
         padding: const EdgeInsets.all(16),
+        alignment: Alignment.topCenter,
         child: DropdownButton<ThemeMode>(
           value: controller.themeMode,
           onChanged: controller.updateThemeMode,
