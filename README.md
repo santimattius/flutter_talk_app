@@ -1,9 +1,6 @@
-# [Working progress] flutter_talk_app
+# flutter_talk_app
 
-A new Flutter project.
-
-![working-progress](https://user-images.githubusercontent.com/22333101/219036302-4b86e674-621e-4f98-974c-012a4fc1647f.gif)
-
+Companion app for Flutter Talk
 
 ## Getting Started
 
