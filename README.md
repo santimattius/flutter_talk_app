@@ -1,7 +1,6 @@
 # flutter_talk_app
 
-Companion app for [Flutter Talk]([Introducción a Flutter - Capture.pdf](https://github.com/santimattius/flutter_talk_app/files/10829888/Introduccion.a.Flutter.-.Capture.pdf)
-)
+Companion app for [Flutter Talk](https://github.com/santimattius/flutter_talk_app/files/10829888/Introduccion.a.Flutter.-.Capture.pdf)
 
 ## Captures
 <p align="center">
