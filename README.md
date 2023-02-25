@@ -1,6 +1,21 @@
 # flutter_talk_app
 
-Companion app for Flutter Talk
+Companion app for [Flutter Talk]([Introducción a Flutter - Capture.pdf](https://github.com/santimattius/flutter_talk_app/files/10829888/Introduccion.a.Flutter.-.Capture.pdf)
+)
+
+## Captures
+<p align="center">
+  <img src="https://github.com/santimattius/flutter_talk_app/blob/master/captures/flutter_talk_main.png" width="300"/>
+  <img src="https://github.com/santimattius/flutter_talk_app/blob/master/captures/flutter_talk_movie.png" width="300"/>
+  <img src="https://github.com/santimattius/flutter_talk_app/blob/master/captures/flutter_talk_setting.png" width="300"/>
+</p>
+
+## Cupertino
+<p align="center">
+<img src="https://github.com/santimattius/flutter_talk_app/blob/master/captures/flutter_talk_ios.png" width="300"/>
+  <img src="https://github.com/santimattius/flutter_talk_app/blob/master/captures/flutter_talk_ios_nav.png" width="300"/>
+  <img src="https://github.com/santimattius/flutter_talk_app/blob/master/captures/flutter_talk_ios_alert.png" width="300"/>
+</p>
 
 ## Getting Started
 
